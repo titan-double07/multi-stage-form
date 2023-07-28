@@ -61,7 +61,7 @@ export default function Form2({
   }, [isYearly]);
 
   return (
-    <AnimatePresence >
+    <AnimatePresence mode='wait' >
       {currentStep !== id ? null : (
         <m.div
           key={id}
