@@ -34,7 +34,7 @@
     @apply bg-blue-900 capitalize text-white px-4 py-2 rounded-md shadow-md hover:scale-110 hover:bg-blue-800 transition-all duration-300 active:scale-95;
   }
   .card-option{
-    @apply border border-gray-200 gap-3 lg:gap-10 lg:w-full rounded-md p-4  lg:pr-6 flex lg:flex-col hover:border-indigo-700 cursor-pointer active:bg-sky-100
+    @apply border border-gray-200 gap-3 lg:gap-10 lg:w-full rounded-md p-4  lg:pr-6 flex lg:flex-col hover:border-indigo-700 cursor-pointer
   }
 }
 
